@@ -8,6 +8,8 @@ Will math rendering work?
 
 \\[ x = {-b \pm \sqrt{b^2-4ac} \over 2a} \\]
 
+\\[ x = {-b \pm \sqrt{b^2-4ac} \ 2a} \\]
+
 Yes!
 This is the important bit:
 Add _layout/default.html according to:
